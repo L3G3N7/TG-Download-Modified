@@ -1,11 +1,10 @@
 # This file is a part of TG-FileStreamBot
 # Coding : Jyothis Jayanth [@EverythingSuckz]
 
-import os
-import os.path
-from ..vars import Var
-from pyrogram import Client
 import logging
+from ..vars import Var
+import logging
+from pyrogram import Client
 from os import getcwd
 
 StreamBot = Client(
