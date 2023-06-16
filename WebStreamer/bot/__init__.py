@@ -3,7 +3,6 @@
 
 import logging
 from ..vars import Var
-import logging
 from pyrogram import Client
 from os import getcwd
 
